@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀;Always+Learning+New+Things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀" />
 </h1>
 
 <!-- Developer GIF -->
@@ -12,7 +12,7 @@
 
 ## 🎨 UI / Frontend
 <p align="center">
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 15px; border-radius: 12px;">
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 12px; border-radius: 10px;">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
   </span>
 </p>
@@ -21,7 +21,7 @@
 
 ## 🖥️ Backend
 <p align="center">
-  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 15px; border-radius: 12px;">
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 12px; border-radius: 10px;">
     <img src="https://skillicons.dev/icons?i=java,spring,maven" />
   </span>
 </p>
@@ -30,7 +30,7 @@
 
 ## 🗄️ Databases
 <p align="center">
-  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 15px; border-radius: 12px;">
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 12px; border-radius: 10px;">
     <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" />
   </span>
 </p>
@@ -39,7 +39,7 @@
 
 ## ⚙️ Tools & Others
 <p align="center">
-  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 15px; border-radius: 12px;">
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 12px; border-radius: 10px;">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </span>
 </p>
