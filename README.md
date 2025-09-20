@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mrityunjay Chauhan 👋  
+🚀 Java Full Stack Developer | 🎓 MCA Student | 🌐 Tech Enthusiast  
 
-<!--
-**MrityunjayChauhan1/MrityunjayChauhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🔭 Currently working on: **Java + React Projects**  
+- 🌱 Learning: **Spring Boot & Microservices**  
+- 💬 Ask me about: **Java, Databases, Web Development**  
+- 📫 Reach me at: **msdchauhan1@gmail.com**  
+- ⚡ Fun fact: I love coding late at night 🌙  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Mrityunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayChauhan1&layout=compact&theme=radical)  
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrityunjay-chauhan-)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdchauhan1@gmail.com)
+
