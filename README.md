@@ -10,72 +10,40 @@
 
 ## 🎨 UI / Frontend
 <p align="center">
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    React
-  </span>
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    JavaScript
-  </span>
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    HTML
-  </span>
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    CSS
-  </span>
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Bootstrap
-  </span>
-  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Tailwind
-  </span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">React</span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">JavaScript</span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">HTML</span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">CSS</span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Bootstrap</span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Tailwind</span>
 </p>
 
 ---
 
 ## 🖥️ Backend
 <p align="center">
-  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Java
-  </span>
-  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Spring
-  </span>
-  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Maven
-  </span>
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Java</span>
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Spring</span>
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Maven</span>
 </p>
 
 ---
 
 ## 🗄️ Databases
 <p align="center">
-  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    MySQL
-  </span>
-  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Oracle
-  </span>
-  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    MongoDB
-  </span>
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">MySQL</span>
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Oracle</span>
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">MongoDB</span>
 </p>
 
 ---
 
 ## ⚙️ Tools & Others
 <p align="center">
-  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Git
-  </span>
-  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    GitHub
-  </span>
-  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    VS Code
-  </span>
-  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
-    Postman
-  </span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Git</span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">GitHub</span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">VS Code</span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">Postman</span>
 </p>
 
 ---
