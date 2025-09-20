@@ -1,83 +1,99 @@
-    <!-- Developer GIF -->
-    <div class="gif-container">
-        <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Developer Animation">
-    </div>
+# Hi, I'm Mrityunjay Chauhan 👋
+**Java Full Stack Developer 💻 | MCA Student 🎓 | UI & Backend Specialist 🚀**
 
-    <div class="divider"></div>
+<p align="center">
+  <!-- Developer GIF hosted in your repo -->
+  <img src="https://raw.githubusercontent.com/MrityunjayChauhan1/YourRepoName/main/assets/developer.gif" width="400" alt="Developer Animation">
+</p>
 
-    <!-- UI / Frontend -->
-    <div class="section">
-        <h2 class="section-title">🎨 UI / Frontend</h2>
-        <div class="skills-container">
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff6ec4, #7873f5);">React</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff6ec4, #7873f5);">JavaScript</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff6ec4, #7873f5);">HTML</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff6ec4, #7873f5);">CSS</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff6ec4, #7873f5);">Bootstrap</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff6ec4, #7873f5);">Tailwind</div>
-        </div>
-    </div>
+---
 
-    <div class="divider"></div>
+## 🎨 UI / Frontend
+<p align="center">
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    React
+  </span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    JavaScript
+  </span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    HTML
+  </span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    CSS
+  </span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Bootstrap
+  </span>
+  <span style="background: linear-gradient(135deg, #ff6ec4, #7873f5); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Tailwind
+  </span>
+</p>
 
-    <!-- Backend -->
-    <div class="section">
-        <h2 class="section-title">🖥️ Backend</h2>
-        <div class="skills-container">
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff9966, #ff5e62);">Java</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff9966, #ff5e62);">Spring</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #ff9966, #ff5e62);">Maven</div>
-        </div>
-    </div>
+---
 
-    <div class="divider"></div>
+## 🖥️ Backend
+<p align="center">
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Java
+  </span>
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Spring
+  </span>
+  <span style="background: linear-gradient(135deg, #ff9966, #ff5e62); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Maven
+  </span>
+</p>
 
-    <!-- Databases -->
-    <div class="section">
-        <h2 class="section-title">🗄️ Databases</h2>
-        <div class="skills-container">
-            <div class="skill-badge" style="background: linear-gradient(135deg, #00c6ff, #0072ff);">MySQL</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #00c6ff, #0072ff);">Oracle</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #00c6ff, #0072ff);">MongoDB</div>
-        </div>
-    </div>
+---
 
-    <div class="divider"></div>
+## 🗄️ Databases
+<p align="center">
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    MySQL
+  </span>
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Oracle
+  </span>
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    MongoDB
+  </span>
+</p>
 
-    <!-- Tools & Others -->
-    <div class="section">
-        <h2 class="section-title">⚙️ Tools & Others</h2>
-        <div class="skills-container">
-            <div class="skill-badge" style="background: linear-gradient(135deg, #f7971e, #ffd200);">Git</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #f7971e, #ffd200);">GitHub</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #f7971e, #ffd200);">VS Code</div>
-            <div class="skill-badge" style="background: linear-gradient(135deg, #f7971e, #ffd200);">Postman</div>
-        </div>
-    </div>
+---
 
-    <div class="divider"></div>
+## ⚙️ Tools & Others
+<p align="center">
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Git
+  </span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    GitHub
+  </span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    VS Code
+  </span>
+  <span style="background: linear-gradient(135deg, #f7971e, #ffd200); padding: 8px 15px; border-radius: 10px; margin: 3px; display: inline-block;">
+    Postman
+  </span>
+</p>
 
-    <!-- GitHub Stats -->
-    <h2 class="section-title">📊 GitHub Stats</h2>
-    <div class="stats-container">
-        <div class="stat-box">
-            <img src="https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-        </div>
-        <div class="stat-box">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrityunjayChauhan1&theme=dark&hide_border=true" alt="GitHub Streak">
-        </div>
-    </div>
+---
 
-    <div class="divider"></div>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=dark" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrityunjayChauhan1&theme=dark" width="350"/>
+</p>
 
-    <!-- Connect With Me -->
-    <h2 class="section-title">🌐 Connect With Me</h2>
-    <div class="social-links">
-        <a href="https://www.linkedin.com/in/mrityunjay-chauhan-" class="social-btn" style="background-color: #0A66C2; color: white;">
-            LinkedIn
-        </a>
-        <a href="mailto:msdchauhan1@gmail.com" class="social-btn" style="background-color: #EA4335; color: white;">
-            Gmail
-        </a>
-    </div>
-</div>
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrityunjay-chauhan-">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:msdchauhan1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
