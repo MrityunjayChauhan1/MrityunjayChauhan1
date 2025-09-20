@@ -1,55 +1,56 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7A400&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀;Always+Learning+New+Things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀;Always+Learning+New+Things+✨" />
 </h1>
 
-<!-- Animated GIF Banner -->
+<!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/3o7TKy0F2Aj8N2YQJy/giphy.gif" width="500px" alt="Coding Animation" />
 </p>
 
 ---
 
 ## 🎨 UI / Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+  <span style="background-color:#1E1E2F; padding: 15px; border-radius: 12px;">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+  </span>
 </p>
 
 ---
 
 ## 🖥️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  <span style="background-color:#1E1E2F; padding: 15px; border-radius: 12px;">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+  </span>
 </p>
 
 ---
 
 ## 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <span style="background-color:#1E1E2F; padding: 15px; border-radius: 12px;">
+    <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" />
+  </span>
 </p>
 
 ---
 
 ## ⚙️ Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <span style="background-color:#1E1E2F; padding: 15px; border-radius: 12px;">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  </span>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=gruvbox&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrityunjayChauhan1&theme=gruvbox&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrityunjayChauhan1&theme=radical&hide_border=true" height="160"/>
 </div>
-
----
-
-## 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MrityunjayChauhan1/MrityunjayChauhan1/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
