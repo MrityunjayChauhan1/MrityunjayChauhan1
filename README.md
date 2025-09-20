@@ -1,7 +1,12 @@
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7A400&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀;Always+Learning+New+Things+✨" />
 </h1>
+
+<!-- Animated GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" alt="Coding Animation" />
+</p>
 
 ---
 
@@ -35,16 +40,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrityunjayChauhan1&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrityunjayChauhan1&show_icons=true&theme=gruvbox&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrityunjayChauhan1&theme=gruvbox&hide_border=true" height="160"/>
 </div>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayChauhan1&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
 
 ---
 
