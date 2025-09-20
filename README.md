@@ -5,7 +5,7 @@
 
 <!-- Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKy0F2Aj8N2YQJy/giphy.gif" width="500px" alt="Developer Animation" />
+  <img src="https://raw.githubusercontent.com/MrityunjayChauhan1/YourRepoName/main/assets/developer.gif" width="500px" alt="Developer Animation" />
 </p>
 
 ---
