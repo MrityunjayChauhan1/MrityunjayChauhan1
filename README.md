@@ -5,8 +5,9 @@
 
 <!-- Developer Dark Mode Image -->
 <p align="center">
-  <img src="https://i.ibb.co/W2B1yT3/developer-dark.png" width="500px" alt="Developer Illustration" />
+  <img src="assets/developer-dark.png" width="500px" alt="Developer Illustration" />
 </p>
+
 
 ---
 
