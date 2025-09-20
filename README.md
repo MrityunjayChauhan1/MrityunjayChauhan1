@@ -2,10 +2,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mrityunjay+Chauhan+👋;Java+Full+Stack+Developer+💻;MCA+Student+🎓;UI+%26+Backend+Specialist+🚀;Always+Learning+New+Things+✨" />
 </h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKy0F2Aj8N2YQJy/giphy.gif" width="500px" alt="Developer GIF" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/Animated%20Working%20Man.gif" width="500px" alt="Animated Working Man" />
 </p>
+
 
 
 
